@@ -1,3 +1,4 @@
+git pull
 cat README.md
 touch up_to_date
 echo "cat README.md" >> up_to_date
