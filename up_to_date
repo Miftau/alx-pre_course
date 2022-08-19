@@ -1,4 +1,0 @@
-cat README.md
-touch up_to_date
-echo "cat README.md" >> up_to_date
-echo "touch up_to_date" >> up_to_date
